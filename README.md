@@ -4,7 +4,16 @@
 
 <h2>Description</h2>
 
-The account audit policy defines the types of user actions or events to be recorded in the security logs. This lab demonstrates how to implement and configure auditing policies in a system using GPOs.
+This lab focuses on configuring and verifying auditing policies in Windows to enhance security monitoring and compliance. Key tasks include:<br/>
+
+- Capturing running processes using `tasklist` for audit logging.
+- Retrieving and analyzing file ACLs with `Get-Acl` to assess access permissions.
+- Enabling **"Audit File System"** policy to log successful and failed file access attempts.
+- Reviewing security logs in **Event Viewer** for unauthorized access detection.
+
+This lab aligns with compliance standards like **ISO 27001 and PCI DSS** by implementing security auditing controls.
+
+
 <h2>Lab walk-through:</h2>
 
 <p align="left">test

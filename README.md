@@ -4,7 +4,7 @@
 
 <h2>Description</h2>
 
-The account audit policy defines the types of user actions or events to be recorded in the security logs. This lab demonstrates how to implement and configure audting policies in a system.
+The account audit policy defines the types of user actions or events to be recorded in the security logs. This lab demonstrates how to implement and configure auditing policies in a system using GPOs.
 <h2>Lab walk-through:</h2>
 
 <p align="center">

@@ -36,4 +36,7 @@ This lab aligns with compliance standards like **ISO 27001 and PCI DSS** by impl
 <br/>
 <p align="center"><img src="https://i.imgur.com/TzPKxoa.png" height="70%" width="100%" alt="Disk Sanitization Steps"/>
 
-
+<p align="center">Next I will configure an audit policy in GPO (Group Policy Object).
+<br/>
+<p align="center"><img src="https://i.imgur.com/v1V8Lhi.png" height="70%" width="100%" alt="Disk Sanitization Steps"/>
+<br/>

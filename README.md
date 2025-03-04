@@ -16,9 +16,12 @@ This lab aligns with compliance standards like **ISO 27001 and PCI DSS** by impl
 
 <h2>Lab walk-through:</h2>
 
-<p align="left">test
+<p align="left">The following command in Windows PowerShell lists all currently running processes and services on the system and saves the output to a file (C:\running_processes.txt) :<br/>
+
+- Auditors can use this to verify that only authorized services are running.
+- Can be compared against system policies to ensure compliance with security guidelines.
 <br/>
-<p align="center"><img src="https://i.imgur.com/3JECCLl.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<p align="center"><img src="https://i.imgur.com/yf19aHQ.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <p align="center">
 <br/>

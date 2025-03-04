@@ -26,6 +26,14 @@ This lab aligns with compliance standards like **ISO 27001 and PCI DSS** by impl
 <p align="center"><img src="https://i.imgur.com/FN6uQf3.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
 <p align="left">The command below retrieves the Access Control List (ACL) permissions for the file Info_Sec.txt located in C:\ConfidentialData and saves it to C:\Info_SecPermissions.txt .
 <br/>
-<p align="center"><img src="https://i.imgur.com/Ind1G1s.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="center"><img src="https://i.imgur.com/Ind1G1s.png" height="70%" width="100%" alt="Disk Sanitization Steps"/>
+<br/>
+<p align="left">By opening the file we can observe  :<br/>
+
+- Admin_Support has ReadAndExecute, meaning they can view but not modify the file.
+- Administrators and SYSTEM have FullControl, which is normal.
+
+<br/>
+<p align="center"><img src="https://i.imgur.com/TzPKxoa.png" height="70%" width="100%" alt="Disk Sanitization Steps"/>
 
 

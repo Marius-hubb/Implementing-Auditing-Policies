@@ -16,29 +16,16 @@ This lab aligns with compliance standards like **ISO 27001 and PCI DSS** by impl
 
 <h2>Lab walk-through:</h2>
 
-<p align="left">The following command in Windows PowerShell lists all currently running processes and services on the system and saves the output to a file (C:\running_processes.txt) :<br/>
+<p align="left">The command below lists all currently running processes and services on the system and saves the output to a file (C:\running_processes.txt) :<br/>
 
 - Auditors can use this to verify that only authorized services are running.
 - Can be compared against system policies to ensure compliance with security guidelines.
 <br/>
 <p align="center"><img src="https://i.imgur.com/yf19aHQ.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<p align="center">
+<p align="center"><img src="https://i.imgur.com/FN6uQf3.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="left">The command below retrieves the Access Control List (ACL) permissions for the file Info_Sec.txt located in C:\ConfidentialData and saves it to C:\Info_SecPermissions.txt .
 <br/>
-<img src="https://i.imgur.com/Y0VrFft.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<p align="center"><img src="https://i.imgur.com/YAof37E.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<p align="center">
-<br/>
-<img src="https://i.imgur.com/VRmk3yu.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<p align="center"><img src="https://i.imgur.com/Z0Ll50H.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<p align="center">
-<br/>
-<img src="https://i.imgur.com/0epTJem.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+<p align="center"><img src="https://i.imgur.com/Ind1G1s.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
+
+
